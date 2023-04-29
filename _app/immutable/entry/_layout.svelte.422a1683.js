@@ -1,0 +1,5 @@
+import{S,i as k,s as D,C as F,k as p,q as h,a as G,l as v,m as $,r as m,h as _,c as L,n as y,b as H,D as n,E as N,F as V,G as j,g as w,d as z}from"../chunks/index.be37e931.js";function I(o){let e,r,c,i,l,b,A,f,E,d,u;const g=o[1].default,a=F(g,o,o[0],null);return{c(){e=p("nav"),r=p("a"),c=h("Home"),i=h(` | \r
+	`),l=p("a"),b=h("About"),A=h(` |\r
+	`),f=p("a"),E=h("Blog"),d=G(),a&&a.c(),this.h()},l(t){e=v(t,"NAV",{});var s=$(e);r=v(s,"A",{href:!0});var q=$(r);c=m(q,"Home"),q.forEach(_),i=m(s,` | \r
+	`),l=v(s,"A",{href:!0});var B=$(l);b=m(B,"About"),B.forEach(_),A=m(s,` |\r
+	`),f=v(s,"A",{href:!0});var C=$(f);E=m(C,"Blog"),C.forEach(_),s.forEach(_),d=L(t),a&&a.l(t),this.h()},h(){y(r,"href","/"),y(l,"href","/about"),y(f,"href","/blog")},m(t,s){H(t,e,s),n(e,r),n(r,c),n(e,i),n(e,l),n(l,b),n(e,A),n(e,f),n(f,E),H(t,d,s),a&&a.m(t,s),u=!0},p(t,[s]){a&&a.p&&(!u||s&1)&&N(a,g,t,t[0],u?j(g,t[0],s,null):V(t[0]),null)},i(t){u||(w(a,t),u=!0)},o(t){z(a,t),u=!1},d(t){t&&_(e),t&&_(d),a&&a.d(t)}}}function J(o,e,r){let{$$slots:c={},$$scope:i}=e;return o.$$set=l=>{"$$scope"in l&&r(0,i=l.$$scope)},[i,c]}class M extends S{constructor(e){super(),k(this,e,J,I,D,{})}}export{M as default};
