@@ -17,9 +17,7 @@
  along with svelte-ghpages-test.  If not, see <http://www.gnu.org/licenses/>.
 -->
 
-<script>
-	import { base } from '$app/paths';
-</script>
+
 
 <nav>
 	<a href="{base}/">Home</a> | 
